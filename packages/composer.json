@@ -1,0 +1,26 @@
+{
+    "name": "panduwjaya/timestampconverter",
+    "description": "percobaan membuat package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Panduwjaya\\Timestampconverter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pandu Wijaya",
+            "email": "wijayapandu388@gmail.com"
+        }
+    ],
+    "require": {
+        "panduwjaya/timestampconverter": "*"
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "packages/panduwjaya/TimestampConverter"
+        }
+    ]
+}
